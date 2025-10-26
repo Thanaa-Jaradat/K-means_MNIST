@@ -1,4 +1,4 @@
-# 🖐️ MNIST Clustering Analysis
+#  MNIST Clustering Analysis
 
 ### **Description**
 This project explores clustering on the MNIST handwritten digits dataset using K-Means. It evaluates clustering performance, visualizes results, and experiments with different initialization methods and the Elbow Method to estimate the optimal number of clusters.
